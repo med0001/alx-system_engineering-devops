@@ -1,0 +1,1 @@
+this repo containe a bunch o scripts that excute some of navigation and file manipulation shell commands
